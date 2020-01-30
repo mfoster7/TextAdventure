@@ -1,0 +1,9 @@
+			LeaveCaveRoom	
+			EmptyCavePath	
+		FindGoldRoom	StartingRoom	EmptyCavePath
+			EmptyCavePath	
+			BanditRoom	
+	ZombieRoom	EmptyCavePath	FindRockRoom	
+	FindGoldRoom		EmptyCavePath	EmptyCavePath
+	ZombieRoom	EmptyCavePath	BanditRoom	
+			FindDaggerRoom	

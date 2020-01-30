@@ -1,0 +1,4 @@
+	FindDaggerRoom			
+EmptyCavePath	StartingRoom	EmptyCavePath	GiantSpiderRoom	FindLongSwordRoom
+	BanditRoom			
+	LeaveCaveRoom			
